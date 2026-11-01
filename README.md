@@ -5,14 +5,24 @@
 </p>
 
 <p align="center">
+  <a href="https://greasyfork.org/zh-CN/scripts/603252"><img src="https://img.shields.io/greasyfork/v/603252?style=for-the-badge&logo=greasyfork&logoColor=white" alt="Greasy Fork Version" /></a>
+  <a href="https://greasyfork.org/zh-CN/scripts/603252"><img src="https://img.shields.io/greasyfork/dt/603252?style=for-the-badge&logo=greasyfork&logoColor=white" alt="Greasy Fork Installs" /></a>
   <a href="https://github.com/BYWled/steam-family-library-stats"><img src="https://img.shields.io/github/stars/BYWled/steam-family-library-stats?style=for-the-badge&logo=github" alt="GitHub Stars" /></a>
   <a href="https://github.com/BYWled/steam-family-library-stats"><img src="https://img.shields.io/github/license/BYWled/steam-family-library-stats?style=for-the-badge" alt="License" /></a>
+</p>
+
+<p align="center">
+  <a href="https://scriptcat.org/zh-CN/script-show-page/8842"><img src="https://img.shields.io/badge/ScriptCat-在线安装-2C9CFF?style=for-the-badge" alt="ScriptCat" /></a>
   <a href="https://gitee.com/BYWled/steam-family-library-stats"><img src="https://img.shields.io/badge/Gitee-代码镜像-C71D23?style=for-the-badge&logo=gitee&logoColor=white" alt="Gitee Mirror" /></a>
+  <a href="https://gitcode.com/BYWled/steam-family-library-stats"><img src="https://img.shields.io/badge/GitCode-代码镜像-2962FF?style=for-the-badge&logo=gitcode&logoColor=white" alt="GitCode Mirror" /></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/BYWled/steam-family-library-stats">GitHub</a> ·
-  <a href="https://gitee.com/BYWled/steam-family-library-stats">Gitee</a>
+  <a href="https://greasyfork.org/zh-CN/scripts/603252">Greasy Fork</a> ·
+  <a href="https://scriptcat.org/zh-CN/script-show-page/8842">ScriptCat</a> ·
+  <a href="https://gitee.com/BYWled/steam-family-library-stats">Gitee</a> ·
+  <a href="https://gitcode.com/BYWled/steam-family-library-stats">GitCode</a>
 </p>
 
 > 版本：**1.0.0**
@@ -43,10 +53,14 @@
 
 ## 📦 安装
 
-1. 安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器扩展（Violentmonkey / Greasemonkey 亦可）；
+1. 安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器扩展（Violentmonkey / Greasemonkey / [脚本猫](https://docs.scriptcat.org/docs/use/use/) 亦可）；
 2. 通过以下任一方式安装本脚本：
-   - **GitHub 直装**：[steam-family-library-stats.user.js](https://github.com/BYWled/steam-family-library-stats/raw/main/steam-family-library-stats.user.js)（推荐，随仓库更新）；
+   - **Greasy Fork 在线安装**（推荐，自动更新）：[Steam 家庭库统计 - Greasy Fork](https://greasyfork.org/zh-CN/scripts/603252)；
+   - **ScriptCat 在线安装**：[Steam 家庭库统计 - ScriptCat](https://scriptcat.org/zh-CN/script-show-page/8842)；
+   - **GitHub 直装**：[steam-family-library-stats.user.js](https://github.com/BYWled/steam-family-library-stats/raw/main/steam-family-library-stats.user.js)；
    - **Gitee 镜像直装**：[steam-family-library-stats.user.js](https://gitee.com/BYWled/steam-family-library-stats/raw/main/steam-family-library-stats.user.js)（国内网络推荐）。
+
+> 🔄 **自动同步机制**：仓库已配置 GitHub WebHook → Greasy Fork / ScriptCat 自动更新，推送到 GitHub 的脚本新版本将自动发布至两个脚本站；GitCode 仓库由 GitHub 自动镜像，Gitee 镜像随本地推送同步。
 
 ---
 

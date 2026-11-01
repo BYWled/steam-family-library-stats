@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/BYWled/steam-family-library-stats"><img src="https://img.shields.io/github/stars/BYWled/steam-family-library-stats?style=for-the-badge&logo=github" alt="GitHub Stars" /></a>
   <a href="https://github.com/BYWled/steam-family-library-stats"><img src="https://img.shields.io/github/license/BYWled/steam-family-library-stats?style=for-the-badge" alt="License" /></a>
-  <a href="https://greasyfork.org/zh-CN/scripts/steam-family-library-stats"><img src="https://img.shields.io/badge/Greasy%20Fork-在线安装-670000?style=for-the-badge&logo=greasyfork&logoColor=white" alt="Greasy Fork" /></a>
+  <a href="https://gitee.com/BYWled/steam-family-library-stats"><img src="https://img.shields.io/badge/Gitee-代码镜像-C71D23?style=for-the-badge&logo=gitee&logoColor=white" alt="Gitee Mirror" /></a>
 </p>
 
 <p align="center">
@@ -45,8 +45,7 @@
 
 1. 安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器扩展（Violentmonkey / Greasemonkey 亦可）；
 2. 通过以下任一方式安装本脚本：
-   - **Greasy Fork 在线安装**：[Greasy Fork - Steam 家庭库统计](https://greasyfork.org/zh-CN/scripts/steam-family-library-stats)（推荐，自动更新）；
-   - **GitHub 直装**：[steam-family-library-stats.user.js](https://github.com/BYWled/steam-family-library-stats/raw/main/steam-family-library-stats.user.js)；
+   - **GitHub 直装**：[steam-family-library-stats.user.js](https://github.com/BYWled/steam-family-library-stats/raw/main/steam-family-library-stats.user.js)（推荐，随仓库更新）；
    - **Gitee 镜像直装**：[steam-family-library-stats.user.js](https://gitee.com/BYWled/steam-family-library-stats/raw/main/steam-family-library-stats.user.js)（国内网络推荐）。
 
 ---
